@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Gaji bulanan",
+    "amount": 3000000,
+    "type": "income",
+    "date": "2026-11-01T08:00:00.000"
+  },
+  {
+    "id": "2",
+    "title": "Makan siang",
+    "amount": 25000,
+    "type": "expense",
+    "date": "2026-11-02T12:30:00.000"
+  },
+  {
+    "id": "3",
+    "title": "Bensin",
+    "amount": 50000,
+    "type": "expense",
+    "date": "2026-11-03T17:00:00.000"
+  }
+]
